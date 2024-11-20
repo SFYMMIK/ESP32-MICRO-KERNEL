@@ -1,3 +1,7 @@
+# little readme update
+i dont have a ESP32 micro controller to tedt this on so if anyone can pls test this and submit issues
+
+
 # ESP32 Micro-Kernel Project
 
 This is a simple micro-kernel for the ESP32 that includes basic Wi-Fi functionality, display handling, and a CLI-based interface for managing commands like connecting to Wi-Fi and displaying text on a screen.
